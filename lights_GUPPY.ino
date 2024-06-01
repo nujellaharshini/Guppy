@@ -1,14 +1,5 @@
 #include <SR04.h>
 
-//LED1: Connect to pin 9 to long lead of LED. Connect short end of LED to 200 to 500 ohm resistor to GND;
-//LED2: Connect to pin 10 to long lead of LED. Connect short end of LED to 200 to 500 ohm resistor to GND;
-//LED3: Connect to pin 11 to long lead of LED. Connect short end of LED to 200 to 500 ohm resistor to GND;
-//LED4: Connect to pin 12 to long lead of LED. Connect short end of LED to 200 to 500 ohm resistor to GND;
-//BUZZER PIN 8 to positive (+) lead of passive buzzer.  The other lead goes to GND
-
-// Original code supplied by Dr. Derickson
-// Edited and documented by Gerome Cacho
-
 #include "pitches.h"    // Library
 
 //Happy birthday 
